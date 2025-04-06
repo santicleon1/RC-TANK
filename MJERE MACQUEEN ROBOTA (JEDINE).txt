@@ -3,21 +3,30 @@
 #####################################################################\
 
 =====================================================================/
+			     ZIDOVI
+=====================================================================\
+Debljina: 2 mm
+=====================================================================/
 			    BASEPLATE
 =====================================================================\
-Duljina: 11.3cm
-Širina:  10cm (sa gumama)
-Visina: 6.2 cm od prozirnog baseplate-a do baterija
-Visina: 1.7 cm od poda do baseplate-a (onog crnog circuit borda)
+Duljina: 113 mm
+Širina:  100 mm (sa gumama)
+Visina: 62 mm od prozirnog baseplate-a do baterija
+Visina: 17 mm od poda do baseplate-a (onog crnog circuit borda)
 	-NOTE: možda mjera nije točna
 =====================================================================/
 			GORNJI BASEPLATE
 =====================================================================\
-Duljina: 6cm
-Širina: 10cm
-Razmak između svake rupe: 1.7cm
-Promjer svake rupe: 0.3cm
+Duljina: 60 mm
+Širina: 100 mm
+Razmak između svake rupe: 17 mm
+Promjer svake rupe: 3 mm
 =====================================================================/
 				FEDER
 =====================================================================\
-Početna: 8cm
+Početna: 80 mm
+=====================================================================/
+				 BB
+=====================================================================\
+Promjer: 6 mm
+Cijev: 8 mm
